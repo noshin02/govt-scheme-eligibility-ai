@@ -55,3 +55,12 @@ The system predicts the **probability of eligibility** for each government schem
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+📌 Note
+
+This project is intended for educational and internship purposes.
+The predictions are probabilistic and not official eligibility confirmations.
+
+👨‍🎓 Author
+
+Developed by a Computer Science student as part of an AI/ML learning journey.
